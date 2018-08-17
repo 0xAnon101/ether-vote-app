@@ -1,0 +1,5 @@
+Sublime*
+test/
+node_modules/
+*.png
+package*
